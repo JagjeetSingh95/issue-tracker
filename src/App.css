@@ -1,0 +1,19 @@
+.bg-gray {
+    background: #b0b0b0;
+}
+
+.bg-green {
+    background: #9df79f;
+}
+
+.bg-red {
+    background: #f39f9f;
+}
+
+.bg-blue {
+    background: #a09ff7;
+}
+
+h2 {
+    display: flex;
+}
